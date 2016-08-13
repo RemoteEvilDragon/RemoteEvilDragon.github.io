@@ -1,2 +1,2 @@
-# eurekachen.github.io
-Test for my personal website blog here.
+
+# Test for my personal website blog here.
