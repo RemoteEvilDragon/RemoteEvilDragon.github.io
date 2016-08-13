@@ -1,2 +1,2 @@
 # eurekachen.github.io
-Eureka Chen's Blog
+Test for my personal website blog here.
